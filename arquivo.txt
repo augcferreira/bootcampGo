@@ -1,3 +1,3 @@
-oi meu nome é augusto, eu tenho 28 anos, sou casado e tenho dois gatos e um cachorro. Estou morando em Londrina - PR, mas sou natural de São Paulo - SP. 
-Sou musico e adoro games. Gosto muito de conversar com meus amigos e tomar café. 
+Olá! Meu nome é Augusto, eu tenho 28 anos, sou casado e tenho dois gatos e um cachorro. Estou morando em Londrina - PR, mas, sou natural de São Paulo - SP. 
+Sou músico e adoro games. Gosto muito de conversar com meus amigos e tomar café.
 Hojé estou fazendo a primeira atividade prática de git e o Davidson é a minha dupla.
